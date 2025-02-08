@@ -16,20 +16,30 @@
 
 `>_ hardskills`
 
-```typescript
-let mietto = null;
+> `frontend`: **React.js**, **Next.js**, **Astro**, TypeScript, JavaScript, HTML, CSS, GraphQL, WebComponents
+>
+> `backend`: **Node.js**, **Typescript**, **NestJS**, **gRPC**, **Fastify**, Drizzle ORM
+>
+> `devops`: CI/CD, **GitLab Pipelines**, **GitHub Actions**, Jenkins, Azure Devops
+>
+> `infra`: **AWS**: EC2, Lambda, CloudFront, API Gateway, SQS, EC2, S3. **Docker**: Kubernetes, Kong, Helm Charts
+>
+> `data`: **PostgreSQL**, **MongoDB**, DynamoDB, Redis, Kafka, Elastic/ELK
+>
+> `arch`: Micro Services, Micro Frontends, Design Patterns, Observability,
 
-mietto = {
-  Frontend: [ "React.js", "Next.js", "Astro", "TypeScript", "JavaScript", "HTML", "CSS", "GraphQL","WebComponents" ],
+## PROJECTS
 
-  Backend:  [ "Node.js", "NestJS", "gRPC", "Protobuf", "Fastify", "Typescript", "Drizzle ORM" ],
+`>_ work`
 
-  DevOps: [ "CI/CD", "Jenkins", "Azure Devops", "GitLab Pipelines", "GitHub Actions" ],
+### Deli.AI
 
-  Infra: { AWS: "EC2Lambda, CloudFront, API Gateway, SQS, EC2, S3", OPEN: "Docker, Kubernetes, Kong, Helm Charts" },
-
-  Data: [ "PostgreSQL", "MongoDB", "Redis", "Kafka", "Elastic/ELK" ],
-
-  Arch: [ "Micro Services", "Micro Frontend", "Design Patterns", "Observability" ]
-}
-```
+<details>
+  <summary>Screenshots</summary>
+  <div style="display: flex; flex-direction: row; gap: 1rem; overflow-x: scroll; padding: 2rem">
+    <img src="img/deli-03.gif" alt="image-description"/>
+    <img src="img/deli-04.gif" alt="image-description"/>
+    <img src="img/deli-05.gif" alt="image-description"/>
+    <img src="img/deli-06.gif" alt="image-description"/>
+  </div>
+</details>
