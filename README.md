@@ -6,27 +6,29 @@
 
 `>_ softskills`
 
-> Seasoned dev, with 12+y experience on diverse technical and business contexts. Lover of architecture and _serious tooling_, to enable the best developer workflow possible.
->
-> Throughout my career, I've taken the _Ownership_ concept as my motto - being accountable for your piece among the whole of a project encourages us to think through the whole development life cycle and deliver our best.
->
-> Project standards, observability with relevant metrics, development process, in short: these are some of the things I like to keep my eye on. Being involved in the software development life cycle as a whole.
+Senior Frontend Developer and Solutions Architect with 12+ years of experience in software development, specializing in modern tech stacks like **Next/React**, **Node/Nest**, **Hasura/GraphQL/gRPC**, **Javascript/TypeScript/Web APIs**.
+
+Comfortable using cloud services such as **AWS**, **Vercel**, **GCP** or **Cloudflare**, including IaC scripting.
+
+Proven expertise in building **scalable**, **high-performance** systems, joining _business_ and _architecture_ reqs into extensible and **_future-proof_** software.
+
+Interest and active contribution on **_team's best practices and processes_** definitions, for better **code quality**, **DevX** and measurable productivity results.
 
 ## TOOLING
 
 `>_ hardskills`
 
-> `frontend`: **React.js**, **Next.js**, **Astro**, TypeScript, JavaScript, HTML, CSS, GraphQL, WebComponents
+> `frontend`: **React**, **Next**, **Astro**, TypeScript, JavaScript, HTML, CSS, GraphQL, WebComponents
 >
 > `backend`: **Node.js**, **Typescript**, **NestJS**, **gRPC**, **Fastify**, Drizzle ORM
 >
-> `devops`: CI/CD, **GitLab Pipelines**, **GitHub Actions**, Jenkins, Azure Devops
+> `devops`: CI/CD, GitLab Pipelines, **GitHub Actions**, Jenkins, Azure Devops, _plain old_ **bash**
 >
 > `infra`: **AWS**: EC2, Lambda, CloudFront, API Gateway, SQS, EC2, S3. **Docker**: Kubernetes, Kong, Helm Charts
 >
 > `data`: **PostgreSQL**, **MongoDB**, DynamoDB, Redis, Kafka, Elastic/ELK
 >
-> `arch`: Micro Services, Micro Frontends, Design Patterns, Observability,
+> `arch`: Microservices, CQRS, Frontend architecture, Observability
 
 ## PROJECTS
 
