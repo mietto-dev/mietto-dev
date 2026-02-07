@@ -34,6 +34,20 @@ Interest and active contribution on **_team's best practices and processes_** de
 
 `>_ work`
 
+### Vector Design System
+
+ShadCN based utility to create your own component library based on Vector Display stylings.
+
+![Interaction](img/vui-01.png)
+
+### TUI Calculator
+
+Yes, a simple calculator. Implements Flux + Command design patterns to fulfill the operations an render the results.
+
+Terminal interface with blessed.
+
+![CalcTUI](https://github.com/mietto-dev/calc-flux/raw/main/ifless-calc.gif)
+
 ### Deli.AI
 
 AI chatbot for restaurants customer service. Handles the entire user journey, using natural language. From Menu display, suggestions, until order creation and tracking.
@@ -42,7 +56,9 @@ Features embedding based search and recommendations, integration with local tool
 
 All of that while still working with a standard NextJS application, structured SQL database and APIs, the whole deal.
 
-<details open>
+![Interaction](img/deli-03.gif)
+
+<details>
   <summary style="font-size: 1.1rem; font-weight: bold;">Show More</summary> 
   <div style="display: flex; flex-direction: row; gap: 1rem; overflow-x: scroll; padding: 2rem">
     <img src="img/deli-01.gif" alt="image-description"/>
@@ -62,6 +78,8 @@ Physical store and POS auditing platform, featuring:
 - Management Dashboard, focused on analytics and metrics collection.
 
 The platform quicly evolved beyond the auditing program, being used by 200+ field agents for several other processes.
+
+![Dashboard](img/ver-mais-dash-01.png)
 
 <details>
   <summary style="font-size: 1.1rem; font-weight: bold;">Show More</summary> 
